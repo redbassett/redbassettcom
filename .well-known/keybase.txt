@@ -1,0 +1,80 @@
+==================================================================
+https://keybase.io/redbassett
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://redbassett.com
+  * I am redbassett (https://keybase.io/redbassett) on keybase.
+  * I have a public key with fingerprint 1994 892F 768E 69B0 4E0B  EBC3 A444 9477 4283 B27A
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "1994892f768e69b04e0bebc3a44494774283b27a",
+            "host": "keybase.io",
+            "key_id": "a44494774283b27a",
+            "kid": "010192b80197fe49f05e8d99bf850d72ffba8b63f68f8b49e5f4919ea43259751ce30a",
+            "uid": "fecd3792d9271048b158a98538cea900",
+            "username": "redbassett"
+        },
+        "revoke": {
+            "sig_ids": [
+                "da4ea1fd39ddd1fc4999641da4a5cc49b5d05d2268c55f1f83821a8ce162a30d0f"
+            ]
+        },
+        "service": {
+            "hostname": "redbassett.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1423087848,
+    "expire_in": 157680000,
+    "prev": "7d9c6e210a61e635a1ac108dda8b10cf9fb9e84c2ce1289bb5aa7916f1c97070",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+which yields the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.1
+Comment: https://keybase.io/crypto
+
+yMNvAnicbZJ7UBVVHMchiIRIoRl1JJTcUge5yJ59nnMThZRyJk3JZhxIuOzjLCyP
+ey/3XhAGedXIpDwcoCKQGBgHIyVFGhvUPwgtoBdNZTAk8hghGAiMSZBgkM4y9Vft
+H7vz+53v+fy++z3ny2c83HzcT/TUvjHVc6za/duOhgy3N3/6cCKHkm1qNmXOoVLw
+6kfTrYnYYXfoVhdlpgBCHESMJgoQC0imOUzLWFZYieM4xIkix0BWZkSJMlFJNqex
+g2BkyYl36TbSI4VFV0n3f/Qpqws0oAFiZEjeooY5pNE8hipCsgZ5WhUZTZMlKAus
+JkANyhzCvMYhgLDEsQyPRB4omKUNXMYqTsOKyoqIUREjApqDMuChhCDPQgVLiKYN
+oRM7rFIaJmoHVolXJ3a5qFwTqTJtKdjIwKknEttOyvwWpUocloCmskhVVaApHEJI
+4ABpS7xCKplXaV5lGAEqPK8BDbKQARKZBgRGYmmV1qg4wiYzM3VlFW7k9J/5uxRb
+GvFmd9hcNsWWStaSXC672bDlyrYb2hNYtvxDsci6VSXHRDZkYodTt1kpMyBKxaUb
+WMAxLA1FyEEThbPsugNbdEPBk0OkyWOMwZkEKapIETADaEkAWGB5CUgKoKGqksQB
+rWhIkxGGnMKQv2EgkmVekkQEBA0oSKRFI0wnTrfaDDbxKSUSJonOKrkyHJjKvdVx
+3NPN3cfN68knjJvm5uPt9+/9Kw5dt5IIPvBc07xn69FPKjcMn02qrNlX1rt9q+el
+yK995kyhrwbdPfXdxRpTYtoRpbzqqfCy/JmsYiH8m5jFiJP1Crh9vfhAwF2fvIrQ
+xvilubKi3d03raUjL2oFcVU3Ig8vHLzwcv/z9Z7NG6IzCx71dI7IS5Mv1cWujDWe
+vre/1tw1/1l1QNrH5bcmaO+EP0YDS98++fra135oMR3+9Hjj+32B722fud2UGOG0
+JydgDGvoljPTWVWmgspTP17lZluzG/qO1D/ev7m89dnOo14b4dT5Rw9nkgvrVPum
+qythzt5X2kp+P7gCZmOCZH+usnLy2iRb5zvTsj70/IA8VF0SEvJre9OY67Jv07r0
+BiayNcsj58FQXnv/02HXFi7gX/qLNrfqlqbU5ZX4chiPpsa3fV9r7ZhyX8+Gif72
+P0/f8Ji+uKN04/xXm8Axk+WO63LS6NCa/uC/1vpQ8qHs6OFt0Qt758eH/HfSFUGP
+uwu/iC2OSigq7AqJiM+fy7qZfx8/F+f986GRAThyTqvJG0tdHO4LPjd45t37n1+6
+Fy77tW5ZTm95YTDvN3t/LrfsN8VPtGl1d6YTdpSguM4s794A7wcDwaNe4Vfkrr72
+3RUxMUgYbDmgxy410Fuu+wE0/lFzGz/ErtTvLYxSRs4+bOwen43yla4k79xTzddm
+BLZPTbwT4uGRM7sY/zfTl87Y
+=emit
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/redbassett
+
+==================================================================
+
